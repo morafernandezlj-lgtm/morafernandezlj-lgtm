@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Lina Juliana 👋
 
-<!--
-**morafernandezlj-lgtm/morafernandezlj-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Chemical Engineer and Data Analyst with experience in process automation, BPM, and Bizagi.
 
-Here are some ideas to get you started:
+-- 🔭 I’m currently working on Mattelsa as **Technology Process Analyst and Modeler **. I map business processes and develop technology tools that the community can use in their day-to-day work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-- 🌱 I'm currently learning 
+
+- **SQL**
+- **Python**
+- **Databricks**
+- **Data analysis**
+
+-- 🛠️ Tools & experience
+
+- Process automation
+- BPM and Bizagi
+- data analytics
+
+-- 🎯 Outside of work
+
+- 🏋️‍♀️ Working out
+- 👨‍👩‍👧 Spending time with the people I love
+- 🎨 Crafts and DIY projects
+  
+-- ⚡ Fun fact: 
+
+- I went from balancing chemical reactions to automating processes, but I never left chemical engineering behind. I found my own way to connect it with technology. 🧪💻, and I still love making things with my own hands. 🎨
+
+
